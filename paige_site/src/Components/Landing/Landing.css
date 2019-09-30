@@ -1,0 +1,48 @@
+.pageDivision{
+  height:100vh;
+  background-color:lightblue;
+}
+
+.landingTitles{
+  height:5vh;
+  width:100%;
+  background-color:lightpink;
+}
+
+.videoBody{
+  background-color:lightgreen;
+  width:auto;
+  height: 100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landingVideo{
+  height:70vh;
+  width:90vw;
+  background-color:red;
+}
+#one{
+  background-color:lightblue;
+}
+
+#two{
+  background-color:lightgrey;
+}
+
+#three{
+  background-color:lightblue;
+}
+
+#four{
+  background-color:lightgrey;
+}
+
+#five{
+  background-color:lightblue;
+}
+
+#six{
+  background-color:lightgrey;
+}

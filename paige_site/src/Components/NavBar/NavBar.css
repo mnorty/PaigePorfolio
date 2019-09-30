@@ -2,4 +2,6 @@
   height:5vh;
   width:auto;
   background-color:grey;
+  position: -webkit-sticky;
+  position: sticky;
 }
