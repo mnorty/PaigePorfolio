@@ -9,7 +9,7 @@
   background-color:lightpink;
 }
 
-.videoBody{
+.landingBody{
   background-color:lightgreen;
   width:auto;
   height: 100vh;
@@ -40,7 +40,12 @@
   width: 90%;;
   background-color:lightblue;
   margin-top:4rem;
+}
 
+.testimonial{
+ background-color:lightpink;
+ height:70vh;
+ width:40vw;
 }
 
 #one{
@@ -69,4 +74,10 @@
 
 #six{
   background-color:lightgrey;
+}
+
+#testimonialBody{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }

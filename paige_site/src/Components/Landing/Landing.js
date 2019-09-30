@@ -12,7 +12,7 @@ class Landing extends Component {
         <div className="pageDivision" id="one"></div>
         <div className="pageDivision" id="two">
           <div className="landingTitles">From Photo to finish, the process is easy and incredible.</div>
-          <div className="videoBody">
+          <div className="landingBody">
             <div className="landingVideo">video container</div>
           </div>
         </div>
@@ -27,9 +27,9 @@ class Landing extends Component {
         </div>
         <div className="pageDivision" id="four">
           <div className="landingTitles">testimonial title</div>
-          <div>body container
-            <div>left</div>
-            <div>right</div>
+          <div className="landingBody" id="testimonialBody">
+            <div className="testimonial"> Left Testimonial</div>
+            <div className="testimonial">Right Testimonial</div>
           </div>
         </div>
         <div className="pageDivision" id="five"></div>
