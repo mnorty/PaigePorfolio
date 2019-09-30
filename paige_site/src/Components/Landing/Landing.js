@@ -32,7 +32,12 @@ class Landing extends Component {
             <div className="testimonial">Right Testimonial</div>
           </div>
         </div>
-        <div className="pageDivision" id="five"></div>
+        <div className="pageDivision" id="five">
+          <div className="landingTitles">Before and after title</div>
+          <div className="landingBody">
+            <div className="before">carosel body</div>
+          </div>
+        </div>
         <div className="pageDivision" id="six"></div>
       </div>
     )

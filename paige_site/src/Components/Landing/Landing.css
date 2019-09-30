@@ -48,6 +48,12 @@
  width:40vw;
 }
 
+.before{
+  background-color: aqua;
+  width:90vw;
+  height:80vh;
+}
+
 #one{
   background-color:lightblue;
 }
