@@ -17,7 +17,13 @@ class Landing extends Component {
           </div>
         </div>
         <div className="pageDivision" id="three">
-          <div>step container</div>
+          <div className="stepBody">
+            <div className="stepContainer">Step #</div>
+            <div className="stepContainer">Step #</div>
+            <div className="stepContainer">Step #</div>
+            <div className="stepContainer">Step #</div>
+            <div className="stepContainer">Step #</div>
+          </div>
         </div>
         <div className="pageDivision" id="four">
           <div className="landingTitles">testimonial title</div>
